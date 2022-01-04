@@ -166,7 +166,7 @@
    </form>
   </div>
 </div>
-<!-- Akh Card Form -->
+<!-- Ak Card Form -->
 </div>
 <!-- Awal Card Tabel -->
 <div class="card mt-3">
